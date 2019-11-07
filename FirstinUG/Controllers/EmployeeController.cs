@@ -12,7 +12,7 @@ namespace FirstinUG.Controllers
         [HttpGet]
         public string getData()
         {
-            return "Hello";
+            return "Heo";
         }
     }
 }
