@@ -1,0 +1,6 @@
+namespace FirstinUG.Areas.HelpPage.ModelDescriptions
+{
+    public class SimpleTypeModelDescription : ModelDescription
+    {
+    }
+}
